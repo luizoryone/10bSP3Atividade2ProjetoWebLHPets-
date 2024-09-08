@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "3GxvghsX7i/8zTLJV1IbEbglHbHD4VCo8w8ZNK6IOkY=",
+  "Source": "code",
+  "BasePath": "_content/code",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "code\\wwwroot",
+      "Source": "code",
+      "ContentRoot": "D:\\CURSO EM CURSO\\SENAI FULLSTACK\\10b - SP3 - Atividade 2 - Projeto Web LH-Pets\\code\\wwwroot\\",
+      "BasePath": "_content/code",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\CURSO EM CURSO\\SENAI FULLSTACK\\10b - SP3 - Atividade 2 - Projeto Web LH-Pets\\code\\wwwroot\\index.html",
+      "SourceId": "code",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\CURSO EM CURSO\\SENAI FULLSTACK\\10b - SP3 - Atividade 2 - Projeto Web LH-Pets\\code\\wwwroot\\",
+      "BasePath": "_content/code",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}
